@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## .env Edit 
 
-To add the working directory of your backend to the .env file 
+Don't forget to add your backend's working directory to the .env file
 
 ## Available Scripts
 
